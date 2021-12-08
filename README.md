@@ -6,7 +6,7 @@
   <h3 align="center">Logo</h3>
 
   <p align="center">
-    Short description
+    Lampara led rgb con control bluetooth y boton para luz nocturna
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
