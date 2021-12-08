@@ -1,16 +1,12 @@
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
-  </a>
+ 
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Lampara_led</h3>
 
   <p align="center">
     Lampara led rgb con control bluetooth y boton para luz nocturna
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+   
   </p>
 </p>
 
@@ -29,11 +25,14 @@
 
 ## Quick start
 
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
+Esta lampara funciona con un Arduino mini pro a 5V, un anillo neopixel,un modulo bluetooth con puerto serie, una bateria lipo y un modulo conversor ajustable TP4056 y un pulsador.
+Lista de materiales:
+- Arduino mini pro 5v.
+- modulo bluetooth hc-06.
+- modulo TP4056.
+- bateria 2XLGBD11865 (puede funcionar con una solo)
+- anillo led ws2812 o 12 leds o similar.
+- boton pulsador.
 
 ## Status
 
